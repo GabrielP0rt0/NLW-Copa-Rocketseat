@@ -1,4 +1,4 @@
-# Desafio BB
+# Desafio NLW
  
 
   ### Tecnologias utilizadas
